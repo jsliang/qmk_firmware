@@ -9,7 +9,7 @@
             "KC_F",
             "KC_P",
             "KC_B",
-            "LCTL(KC_SPC)",
+            "ANY(LCTL(LGUI(KC_SPC)))",
             "RCTL(KC_SPC)",
             "KC_J",
             "KC_L",
